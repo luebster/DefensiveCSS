@@ -1,0 +1,3 @@
+.scroll-this-only {
+    overscroll-behavior-y: contain;
+}
